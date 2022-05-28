@@ -1,4 +1,4 @@
-Feature/user-view
+"Feature/user-view"
 
 Scenario01: Observa el perfil de un usuario
 Given el usuario quiere observar el perfil de un usuario
