@@ -1,4 +1,4 @@
-Feature/explore
+"Feature/explore"
 
 Scenario01: Explora con éxito el menú al ingresar
 Given el usuario quiere explorar la sección de recomendados y trending
