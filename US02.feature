@@ -1,5 +1,5 @@
 # Sprint3-
-Feature/Account-settings
+"Feature/Account-settings"
 
 Scenario01: Logra cambiar sus datos
 Given el usuario quiere cambiar los datos de su cuenta
